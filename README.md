@@ -12,6 +12,7 @@ Credits
 -------
 * Love2d Framework: <https://love2d.org/>
 * Pecita font: <http://openfontlibrary.org/en/font/pecita>
+* Gamaliel font: <http://openfontlibrary.org/en/font/gamaliel>
 * sound effects: <http://www.superflashbros.net/as3sfxr/>
 
 License
