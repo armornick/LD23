@@ -4,8 +4,9 @@ Entry for Ludum Dare 23 by armornick.
 
 Gameplay
 --------
-This will hopefully become an ascii-art artificial life simulator 
-in the style of the old tamaguchi and Creatures games.
+A small and simple ascii graphics strategy game.
+Currently has only one weapon and two enemies.
+Thus nothing more than a whack-a-mole game. With mines.
 
 Credits
 -------
